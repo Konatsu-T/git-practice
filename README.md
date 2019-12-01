@@ -1,3 +1,3 @@
 # git-practice
 
-とても難しいです・・・
+2019.12.1 start
